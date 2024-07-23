@@ -1,6 +1,6 @@
 from django.apps import AppConfig
 
 
-class TexnomartConfig(AppConfig):
+class OlchaConfig(AppConfig):
     default_auto_field = 'django.db.models.BigAutoField'
-    name = 'texnomart'
+    name = 'olcha'
